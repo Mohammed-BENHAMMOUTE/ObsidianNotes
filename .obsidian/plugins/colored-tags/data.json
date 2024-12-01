@@ -1,0 +1,45 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "excalidraw": 1,
+    "Automatisation": 2,
+    "approche": 3,
+    "approche_declarative": 4,
+    "software-principles": 5,
+    "SOLID": 6,
+    "design-patterns": 7,
+    "clean-code": 8,
+    "behavioral-patterns": 9,
+    "oop": 10,
+    "software-engineering": 11,
+    "state-pattern": 12,
+    "object-oriented-design": 13,
+    "designpattern": 14,
+    "creational": 15,
+    "builder": 16,
+    "software": 17,
+    "java": 18,
+    "creational-patterns": 19,
+    "statistics": 20,
+    "machine_learning": 21,
+    "regression": 22,
+    "study_notes": 23,
+    "exam_prep": 24,
+    "regression_analysis": 25,
+    "devops": 26,
+    "software-development": 27,
+    "ci-cd": 28,
+    "team-structure": 29,
+    "automation": 30
+  },
+  "_version": 3
+}

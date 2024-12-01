@@ -1,0 +1,3 @@
+[[backend]] [[Books]] [[kafka]]
+# What is Kafka?
+is Publish/Subscribe messaging system, its lately described as a "distributing streaming plateform. ". Moreover data in Kafka is stored durably, in order , and can be read deterministincly. In addition, the data can be distributed within the system to provide additional protections against failures, as well as significant opportunities for scaling performance.

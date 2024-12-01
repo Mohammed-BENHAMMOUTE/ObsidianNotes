@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"58b760412bbc807e","type":"text","text":"Unsupervised Learning","x":80,"y":-260,"width":250,"height":60},
+		{"id":"7a6eb11af0da3923","type":"text","text":"supervised Learning","x":-80,"y":-380,"width":250,"height":60},
+		{"id":"15b5c0edbcbe2c3e","type":"text","text":"an exam that you have the answers for it.","x":289,"y":-418,"width":291,"height":98},
+		{"id":"2c184acc8a7d343e","type":"text","text":"an exam that you dont have answers to, therefor you need to find the answers yourself","x":400,"y":-260,"width":250,"height":180},
+		{"id":"4e14d1ca51fe6575","type":"text","text":"Reinforcement learning","x":-120,"y":-40,"width":250,"height":60},
+		{"id":"9f3b876f88067961","type":"text","text":"machine learning","x":-600,"y":-260,"width":250,"height":60},
+		{"id":"ebdae6c85948824b","x":370,"y":-41,"width":250,"height":60,"type":"text","text":""},
+		{"id":"af9aac4d684c2b78","x":330,"y":-39,"width":467,"height":59,"type":"text","text":"Learn from rewards/consequences"}
+	],
+	"edges":[
+		{"id":"f8e035f456fd3673","fromNode":"9f3b876f88067961","fromSide":"right","toNode":"7a6eb11af0da3923","toSide":"left"},
+		{"id":"3ed9567eac410567","fromNode":"9f3b876f88067961","fromSide":"right","toNode":"58b760412bbc807e","toSide":"left"},
+		{"id":"66afc133223508bf","fromNode":"9f3b876f88067961","fromSide":"right","toNode":"4e14d1ca51fe6575","toSide":"left"},
+		{"id":"415df04cb79162dc","fromNode":"7a6eb11af0da3923","fromSide":"right","toNode":"15b5c0edbcbe2c3e","toSide":"left"},
+		{"id":"2b09d2cb72abc8bf","fromNode":"58b760412bbc807e","fromSide":"right","toNode":"2c184acc8a7d343e","toSide":"left"},
+		{"id":"849de6c9d46f0973","fromNode":"4e14d1ca51fe6575","fromSide":"right","toNode":"af9aac4d684c2b78","toSide":"left"}
+	]
+}

@@ -1,0 +1,78 @@
+{
+  "fonts": [
+    {
+      "id": "atkinson-hyperlegible",
+      "family": "Atkinson Hyperlegible",
+      "subsets": [
+        "latin",
+        "latin-ext"
+      ],
+      "styles": [
+        "italic",
+        "normal"
+      ],
+      "weights": [
+        400,
+        700
+      ],
+      "isActive": true
+    },
+    {
+      "id": "karla",
+      "family": "Karla",
+      "subsets": [
+        "latin",
+        "latin-ext"
+      ],
+      "styles": [
+        "italic",
+        "normal"
+      ],
+      "weights": [
+        200,
+        300,
+        400,
+        500,
+        600,
+        700,
+        800
+      ],
+      "variable": {
+        "ital": {
+          "default": "0",
+          "min": "0",
+          "max": "1",
+          "step": "1"
+        },
+        "wght": {
+          "default": "400",
+          "min": "200",
+          "max": "800",
+          "step": "1"
+        }
+      },
+      "isActive": false
+    }
+  ],
+  "interfaceFonts": [
+    {
+      "id": "atkinson-hyperlegible",
+      "family": "Atkinson Hyperlegible",
+      "precedence": 1
+    }
+  ],
+  "textFonts": [
+    {
+      "id": "atkinson-hyperlegible",
+      "family": "Atkinson Hyperlegible",
+      "precedence": 0
+    }
+  ],
+  "monospaceFonts": [
+    {
+      "id": "atkinson-hyperlegible",
+      "family": "Atkinson Hyperlegible",
+      "precedence": 0
+    }
+  ]
+}
