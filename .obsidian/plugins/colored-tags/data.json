@@ -39,7 +39,8 @@
     "software-development": 27,
     "ci-cd": 28,
     "team-structure": 29,
-    "automation": 30
+    "automation": 30,
+    "docker": 31
   },
   "_version": 3
 }

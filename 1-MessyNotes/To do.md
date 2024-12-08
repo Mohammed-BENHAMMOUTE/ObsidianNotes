@@ -1,0 +1,5 @@
+- [ ] N-tier architecture.
+- [ ] Rapport.
+- [ ] operators in kubernetes?
+- [ ] the 4 different types of casts in c++ ?
+- [ ] reverse proxy in docker swarm.

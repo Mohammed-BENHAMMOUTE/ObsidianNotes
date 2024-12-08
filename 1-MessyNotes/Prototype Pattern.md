@@ -1,5 +1,4 @@
-# Prototype Pattern 🔄
-
+[[Design Patterns and Code refactoring]]
 ## Definition
 > Creates new objects by cloning an existing object, known as the prototype, instead of creating objects from scratch.
 

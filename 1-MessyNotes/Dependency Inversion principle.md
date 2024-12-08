@@ -132,7 +132,7 @@ class OrderProcessorTest {
 4. ❌ Concrete class inheritance
 
 ## Further Reading
-- [[SOLID Principles]]
+- [[1-MessyNotes/SOLID Principles]]
 - [[Clean Architecture]]
 - [[Dependency Injection Patterns]]
 - [[Interface Design Patterns]]

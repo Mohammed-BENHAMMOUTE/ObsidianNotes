@@ -1,8 +1,9 @@
 {
-  "accentColor": "#874cc2",
-  "cssTheme": "Minimal",
-  "theme": "system",
-  "interfaceFontFamily": "DejaVu Sans,Liberation Mono,Caladea",
-  "textFontFamily": "Arial,Karmilla,Karla,Atkinson",
-  "baseFontSize": 18.5
+  "accentColor": "#7d0bef",
+  "cssTheme": "Encore",
+  "theme": "obsidian",
+  "interfaceFontFamily": "Chilanka,FiraCode Nerd Font,JetBrainsMono Nerd Font,DejaVu Sans,Liberation Mono,Caladea",
+  "textFontFamily": "JetBrainsMono Nerd Font,Chilanka,Arial,Karmilla,Karla,Atkinson",
+  "baseFontSize": 18.5,
+  "nativeMenus": false
 }
