@@ -59,7 +59,7 @@
               "type": "markdown",
               "state": {
                 "file": "1-MessyNotes/To do.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
@@ -68,52 +68,37 @@
             }
           },
           {
-            "id": "c9d3ecc418ad60ab",
+            "id": "303b4aae3f0b222c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-MessyNotes/Docker swarm commands.md",
+                "file": "1-MessyNotes/N-tier architecture.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker swarm commands"
+              "title": "N-tier architecture"
             }
           },
           {
-            "id": "66c9a8e36fdbe557",
+            "id": "c5e9712fdbf7dd54",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/HTTP Protocol.md",
-                "mode": "preview",
+                "file": "1-MessyNotes/Forward Proxy vs Reverse Proxy.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTTP Protocol"
-            }
-          },
-          {
-            "id": "42acdfc4cfbf6075",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-MessyNotes/Docker Swarm.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Docker Swarm"
+              "title": "Forward Proxy vs Reverse Proxy"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -169,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.50043487548828
+    "width": 219.50043487548828,
+    "collapsed": true
   },
   "right": {
     "id": "eedb4251fb2cc016",
@@ -279,18 +265,21 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "42acdfc4cfbf6075",
+  "active": "c5e9712fdbf7dd54",
   "lastOpenFiles": [
-    "1-MessyNotes/Untitled 19.md",
-    "1-MessyNotes/Docker swarm commands.md",
     "1-MessyNotes/To do.md",
-    "1-MessyNotes/Docker Swarm.md",
-    "1-MessyNotes/interview prep to do list.md",
+    "1-MessyNotes/Forward Proxy vs Reverse Proxy.md",
     "1-MessyNotes/SOLID principles.md",
-    "1-MessyNotes/Implementing a Hashmap with C++.md",
-    "templates/HTTP Protocol.md",
-    "1-MessyNotes/Proxy.md",
     "1-MessyNotes/3. DEVOPS Monitoring and observability.md",
+    "1-MessyNotes/Docker Swarm.md",
+    "1-MessyNotes/N-tier architecture.md",
+    "1-MessyNotes/Docker swarm commands.md",
+    "templates/HTTP Protocol.md",
+    "1-MessyNotes/Untitled 20.md",
+    "1-MessyNotes/Untitled 19.md",
+    "1-MessyNotes/interview prep to do list.md",
+    "1-MessyNotes/Implementing a Hashmap with C++.md",
+    "1-MessyNotes/Proxy.md",
     "1-MessyNotes/Docker Networking.md",
     "1-MessyNotes/Untitled Kanban 2.md",
     "1-MessyNotes/Untitled.pdf",
@@ -312,9 +301,6 @@
     "1-MessyNotes/DOCKER KUBERNETES Project.md",
     "2.Zettelkasten/React/react Query/React Query.md",
     "2.Zettelkasten/MyArticles/Jwt Tokkens.md",
-    "1-MessyNotes/Useful Linux commands.md",
-    "1-MessyNotes/Untitled 18.md",
-    "2.Zettelkasten/Spring/Spring.md",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
