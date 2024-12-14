@@ -1,0 +1,6 @@
+- [ ] how to check if two lines intersect ?
+- [ ] Fibonacci numbers in number theory 
+- [ ] USACO number theory problems
+- [ ] USACO dp problems.
+- [ ] matrix binary exponenciation.
+- [ ] graphs.#

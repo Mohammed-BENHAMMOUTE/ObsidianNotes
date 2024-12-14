@@ -1,8 +1,8 @@
 {
   "lightStyle": "minimal-light-tonal",
   "darkStyle": "minimal-dark-tonal",
-  "lightScheme": "minimal-gruvbox-light",
-  "darkScheme": "minimal-gruvbox-dark",
+  "lightScheme": "minimal-ayu-light",
+  "darkScheme": "minimal-ayu-dark",
   "editorFont": "",
   "lineHeight": 1.5,
   "lineWidth": 40,

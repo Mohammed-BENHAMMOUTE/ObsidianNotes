@@ -55,7 +55,7 @@ A server positioned between the internet and web servers, managing incoming clie
    - Internal traffic management
    - Even request distribution
 
-## 🔑 Key Differences
+## Key Differences
 
 | Aspect | Forward Proxy | Reverse Proxy |
 |--------|--------------|---------------|

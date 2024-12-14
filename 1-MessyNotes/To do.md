@@ -2,6 +2,4 @@
 - [ ] Rapport.
 - [ ] operators in kubernetes?
 - [ ] the 4 different types of casts in c++ ?
-- [x] reverse proxy in docker swarm.
-- [ ] master-replica
-- [ ] multi-master replication
+- [ ] connect the frontend to the backend.
