@@ -2,4 +2,5 @@
 - [ ] Rapport.
 - [ ] operators in kubernetes?
 - [ ] the 4 different types of casts in c++ ?
-- [ ] connect the frontend to the backend.
+- [x] connect the frontend to the backend.
+- [ ] https://www.youtube.com/watch?v=DxyfuP7v_zw

@@ -87,7 +87,7 @@
           "step": "1"
         }
       },
-      "isActive": true
+      "isActive": false
     },
     {
       "id": "karla",
@@ -138,11 +138,6 @@
       "id": "fira-code",
       "family": "Fira Code",
       "precedence": 0
-    },
-    {
-      "id": "jetbrains-mono",
-      "family": "JetBrains Mono",
-      "precedence": 1
     }
   ],
   "monospaceFonts": [

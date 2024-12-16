@@ -41,7 +41,9 @@
     "team-structure": 29,
     "automation": 30,
     "docker": 31,
-    "include": 32
+    "include": 32,
+    "liveness": 33,
+    "Note": 34
   },
   "_version": 3
 }

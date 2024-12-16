@@ -3,7 +3,7 @@
   "cssTheme": "Minimal",
   "theme": "moonstone",
   "interfaceFontFamily": "Chilanka,FiraCode Nerd Font,JetBrainsMono Nerd Font,DejaVu Sans,Liberation Mono,Caladea",
-  "textFontFamily": "JetBrainsMono Nerd Font,Chilanka,Arial,Karmilla,Karla,Atkinson",
+  "textFontFamily": "Arial,JetBrainsMono Nerd Font,Chilanka,Karmilla,Karla,Atkinson",
   "baseFontSize": 18.5,
   "nativeMenus": false
 }
