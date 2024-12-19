@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-MessyNotes/Obsidian git token.md",
+                "file": "2.Zettelkasten/MyArticles/Jwt Tokkens.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidian git token"
+              "title": "Jwt Tokkens"
             }
           }
         ],
@@ -241,6 +241,7 @@
   "active": "ec306aaab479801a",
   "lastOpenFiles": [
     "1-MessyNotes/To Search.md",
+    "1-MessyNotes/Obsidian git token.md",
     "2024-12-19.md",
     "1-MessyNotes/Project docker & Kubernetes.md",
     "1-MessyNotes/DOCKER KUBERNETES Project.md",
@@ -257,7 +258,6 @@
     "1-MessyNotes/3. devops.md",
     "1-MessyNotes/1. DEVOPS.md",
     "1-MessyNotes/Aspect Oriented Programming.md",
-    "1-MessyNotes/Obsidian git token.md",
     "1-MessyNotes/3. Mocking test white box.md",
     "1-MessyNotes/Cp to do list.md",
     "2024-12-12.md",
