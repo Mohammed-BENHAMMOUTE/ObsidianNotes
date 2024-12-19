@@ -5,6 +5,7 @@
 - [ ] container security.
 - [ ] service discovery in docker , 
 - [ ] new slim version of images.
+- [ ]
 
 
 # Kunernetes orchestration des conteneurs:

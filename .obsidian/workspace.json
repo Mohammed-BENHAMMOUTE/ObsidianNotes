@@ -8,92 +8,37 @@
         "type": "tabs",
         "children": [
           {
-            "id": "26f5d00df7fc66bd",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "6f1bf75cd0d241a4",
+            "id": "3bb596fd7e56c900",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-MessyNotes/To do.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "To do"
-            }
-          },
-          {
-            "id": "885ffa50dd4c4ce4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-MessyNotes/Aspect Oriented Programming.md",
+                "file": "1-MessyNotes/To Search.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aspect Oriented Programming"
+              "title": "To Search"
             }
           },
           {
-            "id": "3692045fccf9dc03",
+            "id": "14f6ef586a3318a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-MessyNotes/1. DEVOPS.md",
+                "file": "1-MessyNotes/DOCKER KUBERNETES Project.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. DEVOPS"
+              "title": "DOCKER KUBERNETES Project"
             }
           },
           {
-            "id": "9e6814ddfc7939b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-MessyNotes/3. devops.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3. devops"
-            }
-          },
-          {
-            "id": "fe83b31b5bda3f76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-MessyNotes/Adapter design pattern.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Adapter design pattern"
-            }
-          },
-          {
-            "id": "771abfcef62e4577",
+            "id": "52276774de1f23ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -108,22 +53,37 @@
             }
           },
           {
-            "id": "44b135e061e78749",
+            "id": "ec306aaab479801a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-MessyNotes/Obsidian git token.md",
+                "file": "1-MessyNotes/To Search.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidian git token"
+              "title": "To Search"
+            }
+          },
+          {
+            "id": "d3183015337d9b84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-12-19.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-12-19"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -175,7 +135,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -197,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-MessyNotes/Obsidian git token.md",
+                "file": "2024-12-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +168,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Obsidian git token"
+              "title": "Backlinks for 2024-12-19"
             }
           },
           {
@@ -229,10 +190,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-MessyNotes/Proxy.md"
+                "file": "2024-12-19.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Proxy"
+              "title": "Outline of 2024-12-19"
             }
           },
           {
@@ -241,26 +202,16 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-MessyNotes/Proxy.md",
+                "file": "2024-12-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Proxy"
-            }
-          },
-          {
-            "id": "cfaecfcb2f884337",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outgoing links from 2024-12-19"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "0079964dd2087361",
@@ -281,7 +232,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.5
+    "width": 345.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -301,17 +253,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "44b135e061e78749",
+  "active": "d3183015337d9b84",
   "lastOpenFiles": [
+    "2024-12-19.md",
+    "1-MessyNotes/To Search.md",
+    "1-MessyNotes/Project docker & Kubernetes.md",
+    "1-MessyNotes/DOCKER KUBERNETES Project.md",
+    "1-MessyNotes/to look up.md",
+    "2024-12-15.md",
+    "1-MessyNotes/Kubernetes Interview prep.md",
+    "1-MessyNotes/Postgres Replication.md",
+    "1-MessyNotes/To do.md",
+    "1-MessyNotes/Functional Programming.md",
+    "1-MessyNotes/Untitled 22.md",
+    "1-MessyNotes/Adapter design pattern.md",
+    "2024-12-14.md",
+    "Pasted image 20241217000152.png",
+    "1-MessyNotes/3. devops.md",
+    "1-MessyNotes/1. DEVOPS.md",
+    "1-MessyNotes/Aspect Oriented Programming.md",
+    "1-MessyNotes/Obsidian git token.md",
     "1-MessyNotes/3. Mocking test white box.md",
     "1-MessyNotes/Cp to do list.md",
     "2024-12-12.md",
-    "1-MessyNotes/To do.md",
-    "1-MessyNotes/Project docker & Kubernetes.md",
     "Pasted image 20241214235731.png",
     "Pasted image 20241214235611.png",
     "Pasted image 20241214234908.png",
-    "1-MessyNotes/Adapter design pattern.md",
     "Drawing 2024-12-14 18.12.38.excalidraw.md",
     "Pasted image 20241214233217.png",
     "Pasted image 20241214232828.png",
@@ -319,26 +286,11 @@
     "Pasted image 20241214190956.png",
     "Pasted image 20241214190921.png",
     "Pasted image 20241214185752.png",
-    "Pasted image 20241214182003.png",
-    "2024-12-14.md",
-    "1-MessyNotes/Obsidian git token.md",
     "1-MessyNotes/DEVOPS project.md",
-    "1-MessyNotes/1. DEVOPS.md",
-    "1-MessyNotes/3. devops.md",
-    "1-MessyNotes/Aspect Oriented Programming.md",
     "1-MessyNotes/2. Devops.md",
     "1-MessyNotes/Spring Boot.md",
     "1-MessyNotes/Untitled 9.md",
     "1-MessyNotes/Untitled 20.md",
-    "1-MessyNotes/2024-12-12.md",
-    "1-MessyNotes/sweep line problems.md",
-    "1-MessyNotes/Untitled 21.md",
-    "1-MessyNotes/2. session.md",
-    "1-MessyNotes/2024-12-09.md",
-    "1-MessyNotes/secret keys.md",
-    "1-MessyNotes/smart Pointers in C++.md",
-    "1-MessyNotes/N-tier architecture.md",
-    "1-MessyNotes/3. DEVOPS Monitoring and observability.md",
     "1-MessyNotes/Untitled.pdf",
     "Untitled 3.canvas",
     "Untitled 2.canvas",

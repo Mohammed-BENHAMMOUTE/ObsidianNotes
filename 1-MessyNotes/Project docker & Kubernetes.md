@@ -1,8 +1,11 @@
 # Part 3
 
 ## 1. **Create K8s manifests**:
+
+
+The main challenge I faced with this part was ensuring high availability of the database. Since we’re using two replicas, data consistency across the replicas isn’t guaranteed, nor is it an out-of-the-box feature in Kubernetes. After some digging—and navigating through a fair share of ChatGPT hallucinations—I came across this approach for creating highly available replicas in a multi-replica architecture. It involves using a master-replica structure, which seems promising. Here’s the [article](https://devopscube.com/deploy-postgresql-statefulset/?utm_source=chatgpt.com) that helped clarify things for me. 
 create the namespace exam:
-  
+
 ```yml
 apiVersion: v1
 kind: Namespace
@@ -11,6 +14,9 @@ metadata:
 	labels:
 		name: exam
 		environment: dev
+spec:
+	finalizers:
+		- kubernetes.io/metadata.deletion
 ```
 
 
@@ -80,6 +86,11 @@ data:
 + StatefullSet:
 
 Postgres statefullset:
+I'm going to use the bitnami Postgres official  image, since it comes with preInstalled tools that I will be using (MG).
+since we are using two 
+
+![[Pasted image 20241217000152.png]]
+
 ```yml
 apiVersion: apps/v1
 kind: StatefulSet
@@ -604,7 +615,6 @@ startupProbe:
 
 backend:
 ```yaml
-		** existing configuration **
         livenessProbe:
           httpGet:
             path: /actuator/health/liveness
@@ -665,6 +675,21 @@ backend:
 ```
 
 ## 7. Ingress
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 **<mark style="background: #FF5582A6;">!</mark> Problem with the current statefullset**:
