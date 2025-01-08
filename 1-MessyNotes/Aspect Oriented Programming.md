@@ -146,3 +146,83 @@
 - **Framework Choice**:
     - **Spring AOP**: Simple use cases within Spring ecosystems.
     - **AspectJ**: Advanced, independent of Spring.
+
+## Practical Examples
+
+### Monitoring Aspect Example
+```java
+@Aspect
+public class MonitoringAspect {
+    @Around("execution(* com.example.service.*.*(..))")
+    public Object measureExecutionTime(ProceedingJoinPoint joinPoint) throws Throwable {
+        long start = System.currentTimeMillis();
+        Object result = joinPoint.proceed();
+        long duration = System.currentTimeMillis() - start;
+        System.out.println("Duration: " + duration + "ms");
+        return result;
+    }
+}
+```
+
+
+how to come up with execution ? 
+Let me help you understand the structure of execution pointcut expressions by breaking them down step by step.
+
+The basic structure of an execution pointcut looks like this:
+```java
+execution(visibility-modifier return-type package.class.method(parameters))
+```
+
+Let's dissect each part using an analogy: Think of it like giving directions to find a specific room in a large building.
+
+1. The `*` symbol acts like a wildcard - it means "anything". Just like if you said "any floor" instead of "3rd floor".
+
+2. The `..` symbol means "this package and all subpackages" - like saying "this floor and all floors below it".
+
+3. The `(..)` for parameters means "any parameters" - like saying "any type of door" instead of "the blue door".
+
+Let's build one together:
+```java
+execution(* com.example.service.*.*(..))
+```
+
+Reading from left to right:
+- First `*`: "any visibility modifier and return type" (public void, private String, etc.)
+- `com.example.service`: "in the package com.example.service"
+- Next `*`: "any class in that package"
+- Next `*`: "any method name"
+- `(..)`: "with any parameters"
+
+So altogether it means: "catch any method, with any return type, in any class within com.example.service package, no matter what parameters it has"
+
+Let's practice with some examples:
+
+1. If you want to catch only public methods:
+```java
+execution(public * com.example.service.*.*(..))
+```
+
+2. If you want to catch only methods that return void:
+```java
+execution(void com.example.service.*.*(..))
+```
+
+3. If you want to catch only methods in a specific class:
+```java
+execution(* com.example.service.UserService.*(..))
+```
+
+4. If you want to catch a specific method with specific parameters:
+```java
+execution(* com.example.service.UserService.createUser(String, int))
+```
+
+Would you like to practice creating some pointcut expressions together? We could start with a simple scenario and gradually make it more complex to help you get comfortable with the syntax.
+
+Think about it like building with LEGO blocks:
+- The first block is what kind of method you want (visibility and return type)
+- The second block is where to look (package and class)
+- The third block is which method specifically
+- The final block is what parameters to look for
+
+What kind of method would you like to try catching first? For example, we could start with catching all methods that create users in a user service.

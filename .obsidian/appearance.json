@@ -1,9 +1,9 @@
 {
-  "accentColor": "#b38a51",
-  "cssTheme": "Minimal",
+  "accentColor": "#9458d0",
+  "cssTheme": "Things",
   "theme": "obsidian",
-  "interfaceFontFamily": "Chilanka,FiraCode Nerd Font,JetBrainsMono Nerd Font,DejaVu Sans,Liberation Mono,Caladea",
-  "textFontFamily": "Arial,JetBrainsMono Nerd Font,Chilanka,Karmilla,Karla,Atkinson",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font,Chilanka,FiraCode Nerd Font,DejaVu Sans,Liberation Mono,Caladea",
+  "textFontFamily": "JetBrainsMono Nerd Font,Arial,Chilanka,Karmilla,Karla,Atkinson",
   "baseFontSize": 18.5,
   "nativeMenus": false
 }

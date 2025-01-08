@@ -1,6 +1,6 @@
 {
   "palette": {
-    "seed": 0,
+    "seed": 6,
     "selected": "adaptive-soft",
     "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
   },
@@ -43,7 +43,20 @@
     "docker": 31,
     "include": 32,
     "liveness": 33,
-    "Note": 34
+    "Note": 34,
+    "marketing": 35,
+    "digital": 36,
+    "transformation": 37,
+    "stratégie": 38,
+    "business": 39,
+    "innovation": 40,
+    "technologie": 41,
+    "cours": 42,
+    "fondamentaux": 43,
+    "programming": 44,
+    "paradigms": 45,
+    "computer-science": 46,
+    "exam-prep": 47
   },
   "_version": 3
 }

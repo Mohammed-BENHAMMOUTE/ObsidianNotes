@@ -4,41 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "a45e7074bb6fb001",
+        "id": "c8b53d2d34933a8c",
         "type": "tabs",
         "children": [
           {
-            "id": "3bb596fd7e56c900",
+            "id": "9cea2499275dfc2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-MessyNotes/To Search.md",
+                "file": "1-MessyNotes/Mockito.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "To Search"
+              "title": "Mockito"
             }
           },
           {
-            "id": "14f6ef586a3318a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-MessyNotes/DOCKER KUBERNETES Project.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DOCKER KUBERNETES Project"
-            }
-          },
-          {
-            "id": "52276774de1f23ed",
+            "id": "28b2b16bbfd04b36",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,22 +38,82 @@
             }
           },
           {
-            "id": "ec306aaab479801a",
+            "id": "07cda8ee871b9d26",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Zettelkasten/MyArticles/Jwt Tokkens.md",
+                "file": "1-MessyNotes/Observability & Monitoring.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Observability & Monitoring"
+            }
+          },
+          {
+            "id": "cebdf78116d05ae4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-MessyNotes/Infrastructure Automation Notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jwt Tokkens"
+              "title": "Infrastructure Automation Notes"
+            }
+          },
+          {
+            "id": "2be918208b625da5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-MessyNotes/devsecops.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "devsecops"
+            }
+          },
+          {
+            "id": "261e130afbcb2e9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-MessyNotes/API Design and Management-Cours hafidi.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "API Design and Management-Cours hafidi"
+            }
+          },
+          {
+            "id": "6120000879ce0416",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-MessyNotes/Paradigmes de programmations.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Paradigmes de programmations"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -120,8 +165,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -143,17 +187,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-12-19.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "1-MessyNotes/Dependency Inversion principle.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2024-12-19"
+              "title": "Backlinks for Dependency Inversion principle"
             }
           },
           {
@@ -175,10 +219,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-12-19.md"
+                "file": "1-MessyNotes/Project Reactor.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-12-19"
+              "title": "Outline of Project Reactor"
             }
           },
           {
@@ -187,16 +231,26 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-12-19.md",
+                "file": "1-MessyNotes/Dependency Inversion principle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2024-12-19"
+              "title": "Outgoing links from Dependency Inversion principle"
+            }
+          },
+          {
+            "id": "b5bb5c2c2b589cfc",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "0079964dd2087361",
@@ -217,8 +271,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.5,
-    "collapsed": true
+    "width": 345.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,58 +291,63 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ec306aaab479801a",
+  "active": "6120000879ce0416",
   "lastOpenFiles": [
-    "1-MessyNotes/To Search.md",
-    "1-MessyNotes/Obsidian git token.md",
-    "2024-12-19.md",
-    "1-MessyNotes/Project docker & Kubernetes.md",
-    "1-MessyNotes/DOCKER KUBERNETES Project.md",
-    "1-MessyNotes/to look up.md",
-    "2024-12-15.md",
-    "1-MessyNotes/Kubernetes Interview prep.md",
-    "1-MessyNotes/Postgres Replication.md",
-    "1-MessyNotes/To do.md",
-    "1-MessyNotes/Functional Programming.md",
-    "1-MessyNotes/Untitled 22.md",
-    "1-MessyNotes/Adapter design pattern.md",
-    "2024-12-14.md",
-    "Pasted image 20241217000152.png",
-    "1-MessyNotes/3. devops.md",
-    "1-MessyNotes/1. DEVOPS.md",
+    "1-MessyNotes/Paradigmes de programmations.md",
+    "1-MessyNotes/API Design and Management-Cours hafidi.md",
+    "1-MessyNotes/Session 1.md",
+    "1-MessyNotes/Programming pradigmes.md",
+    "1-MessyNotes/Site Reliability Engineering (SRE) - Comprehensive Study Notes.md",
+    "1-MessyNotes/Observability & Monitoring.md",
+    "1-MessyNotes/Dev Mobile.md",
     "1-MessyNotes/Aspect Oriented Programming.md",
+    "1-MessyNotes/3. DEVOPS Monitoring and observability.md",
+    "1-MessyNotes/Chaos Engineering - Comprehensive Study Notes.md",
+    "1-MessyNotes/devsecops.md",
+    "1-MessyNotes/Infrastructure Automation Notes.md",
+    "1-MessyNotes/Project docker & Kubernetes.md",
+    "1-MessyNotes/Untitled 26.md",
+    "1-MessyNotes/Dependency Inversion principle.md",
+    "1-MessyNotes/Mockito.md",
+    "1-MessyNotes/JUnit.md",
+    "1-MessyNotes/Management ....md",
+    "1-MessyNotes/Project Reactor Course.md",
+    "1-MessyNotes/Reactor cours Baidouri.md",
+    "1-MessyNotes/TP Junit.md",
+    "1-MessyNotes/DevSecOps.md",
+    "2025-01-04.md",
     "1-MessyNotes/3. Mocking test white box.md",
-    "1-MessyNotes/Cp to do list.md",
-    "2024-12-12.md",
-    "Pasted image 20241214235731.png",
-    "Pasted image 20241214235611.png",
-    "Pasted image 20241214234908.png",
-    "Drawing 2024-12-14 18.12.38.excalidraw.md",
-    "Pasted image 20241214233217.png",
-    "Pasted image 20241214232828.png",
-    "Pasted image 20241214215729.png",
-    "Pasted image 20241214190956.png",
-    "Pasted image 20241214190921.png",
-    "Pasted image 20241214185752.png",
-    "1-MessyNotes/DEVOPS project.md",
-    "1-MessyNotes/2. Devops.md",
-    "1-MessyNotes/Spring Boot.md",
-    "1-MessyNotes/Untitled 9.md",
-    "1-MessyNotes/Untitled 20.md",
+    "1-MessyNotes/Gestion des tests.md",
+    "1-MessyNotes/Testes et Qualimetrie.md",
+    "Pasted image 20250101143826.png",
+    "Pasted image 20241231121759.png",
+    "Pasted image 20241229235737.png",
+    "Pasted image 20241229235719.png",
+    "Pasted image 20241229235646.png",
+    "Pasted image 20241229235457.png",
+    "Pasted image 20241229235433.png",
+    "Pasted image 20241229235412.png",
+    "Pasted image 20241229235353.png",
+    "Pasted image 20241229235336.png",
+    "Untitled 10.canvas",
+    "Untitled 9.canvas",
+    "Untitled 8.canvas",
+    "Untitled 7.canvas",
+    "Untitled 6.canvas",
+    "Untitled 5.canvas",
+    "Untitled 4.canvas",
+    "example@1x 1.ong",
+    "example@1x.ong",
+    " 1",
     "1-MessyNotes/Untitled.pdf",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Learning/Spring/Untitled.canvas",
     "1-MessyNotes",
     "templates",
     "2.Zettelkasten",
     "4.Files",
     "2.Zettelkasten/Nextjs",
-    "backend",
-    "Excalidraw",
-    "competitive programming notes",
-    "test Chatbot"
+    "backend"
   ]
 }
