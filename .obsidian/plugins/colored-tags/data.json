@@ -56,7 +56,10 @@
     "programming": 44,
     "paradigms": 45,
     "computer-science": 46,
-    "exam-prep": 47
+    "exam-prep": 47,
+    "reactive": 48,
+    "functional": 49,
+    "advanced": 50
   },
   "_version": 3
 }
