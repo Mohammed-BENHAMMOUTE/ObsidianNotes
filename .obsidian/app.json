@@ -2,7 +2,6 @@
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "1-MessyNotes",
-  "showRibbon": true,
   "defaultViewMode": "preview",
   "pdfExportSettings": {
     "includeName": true,

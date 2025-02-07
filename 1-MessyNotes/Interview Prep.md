@@ -1,0 +1,14 @@
+- [ ] Java.
+- [ ] javascript/typescript.
+- [ ] nodejs / Spring boot.
+- [ ] SQL.
+- [ ] design patterns/SOlID.
+- [ ] C++.
+- [ ] AI agents.
+- [ ] databases Postgres/redis.
+- [ ] python.
+- [ ] REACT/NEXTJs.
+- [ ] Kafka.
+- [ ] docker 
+- [ ] Kubernetes 
+- [ ] ArgoCD
