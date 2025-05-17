@@ -59,7 +59,16 @@
     "exam-prep": 47,
     "reactive": 48,
     "functional": 49,
-    "advanced": 50
+    "advanced": 50,
+    "ProtocolBuffers": 51,
+    "gRPC": 52,
+    "DataSerialization": 53,
+    "DistributedSystems": 54,
+    "Scalability": 55,
+    "LoadBalancing": 56,
+    "Caching": 57,
+    "CDN": 58,
+    "Sharding": 59
   },
   "_version": 3
 }

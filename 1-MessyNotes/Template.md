@@ -3608,7 +3608,7 @@ for (n times of relax)
 
 > O(Vlog(E)) (?)
 
-```c++
+```cpp
 void dijkstra(int s) {
     map<int, queue<int>> m;
     dist[s] = 0;
@@ -3635,9 +3635,11 @@ void dijkstra(int s) {
 }
 ```
 
+
 If you want to write compare operator().
 
-```c++
+
+```cpp
 struct cmp {
     bool operator()(pair<int, int> a, pair<int, int> b) {
         return a.first > b.first;

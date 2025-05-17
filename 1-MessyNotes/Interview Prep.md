@@ -4,7 +4,6 @@
 - [ ] SQL.
 - [ ] design patterns/SOlID.
 - [ ] C++.
-- [ ] AI agents.
 - [ ] databases Postgres/redis.
 - [ ] python.
 - [ ] REACT/NEXTJs.

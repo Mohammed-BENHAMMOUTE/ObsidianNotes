@@ -1,6 +1,30 @@
 {
   "cascadeColors": false,
   "colorBackground": false,
-  "palette": [],
-  "fileColors": []
+  "palette": [
+    {
+      "id": "5m8kEXFFYimvuqlvwvRTg",
+      "name": "java",
+      "value": "#bc1a1a"
+    },
+    {
+      "id": "pokMtnc0PKNRFAUDFl9HS",
+      "name": "C++",
+      "value": "#2e14b3"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "1-MessyNotes/Project Notes.md",
+      "color": "5m8kEXFFYimvuqlvwvRTg"
+    },
+    {
+      "path": "2.Zettelkasten/Spring/Spring.md",
+      "color": "5m8kEXFFYimvuqlvwvRTg"
+    },
+    {
+      "path": "1-MessyNotes/DevOps.md",
+      "color": "5m8kEXFFYimvuqlvwvRTg"
+    }
+  ]
 }

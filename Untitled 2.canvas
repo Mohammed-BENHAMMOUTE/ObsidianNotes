@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"8e314e78d070168a","x":0,"y":0,"width":680,"height":400,"type":"file","file":"1-MessyNotes/Les types des Algorithme de  Machine Learning.md"}
+		{"id":"8e314e78d070168a","type":"file","file":"1-MessyNotes/Les types des Algorithme de  Machine Learning.md","x":-400,"y":-760,"width":680,"height":400}
 	],
 	"edges":[]
 }

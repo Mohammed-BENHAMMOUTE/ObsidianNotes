@@ -1,0 +1,2 @@
+[[Decomposition Strategies]]
+domain driven design is a strategy that is used to create a common ground between domain experts and software engineers, by clearly understanding and modeling the business needs, and defining a ubiquitous language, entities, 

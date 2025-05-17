@@ -4,56 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "675ea581c384f4bf",
+        "id": "fd31a2fa7a7a3c97",
         "type": "tabs",
         "children": [
           {
-            "id": "aa468b64f3efa467",
+            "id": "774bb00722c69a31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-MessyNotes/C course.md",
+                "file": "PFA Prject/Decomposition/Microservices/Business Capabilities/Services.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "C course"
+              "title": "Services"
             }
           },
           {
-            "id": "37240d47100fc5e2",
+            "id": "2841c908ada1430f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "1-MessyNotes/smart Pointers in C++.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
+                "file": "Excalidraw/context_map.md"
               },
-              "icon": "lucide-file",
-              "title": "smart Pointers in C++"
+              "icon": "excalidraw-icon",
+              "title": "context_map"
             }
           },
           {
-            "id": "047fbde536b6bdd8",
+            "id": "23c9f75f502b133e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-MessyNotes/Dijkstra.md",
+                "file": "2025-05-16.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Dijkstra"
+              "title": "2025-05-16"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ANal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.50043487548828,
-    "collapsed": true
+    "width": 460
   },
   "right": {
     "id": "eedb4251fb2cc016",
@@ -128,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-MessyNotes/Dependency Inversion principle.md",
+                "file": "PFA Prject/Decomposition/Microservices/Business Capabilities/Services.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -138,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Dependency Inversion principle"
+              "title": "Backlinks for Services"
             }
           },
           {
@@ -148,7 +143,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -160,10 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-MessyNotes/Project Reactor.md"
+                "file": "PFA Prject/Decomposition/Microservices/Business Capabilities/Services.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Project Reactor"
+              "title": "Outline of Services"
             }
           },
           {
@@ -172,12 +172,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-MessyNotes/Dependency Inversion principle.md",
+                "file": "PFA Prject/Decomposition/Microservices/Business Capabilities/Services.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Dependency Inversion principle"
+              "title": "Outgoing links from Services"
             }
           },
           {
@@ -189,9 +189,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "0aa7e0544add9fa2",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "0079964dd2087361",
@@ -217,10 +227,10 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "canvas:Create new canvas": false,
-      "graph:Open graph view": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "graph:Open graph view": false,
       "command-palette:Open command palette": false,
       "switcher:Open quick switcher": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
@@ -233,63 +243,63 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "047fbde536b6bdd8",
+  "active": "774bb00722c69a31",
   "lastOpenFiles": [
-    "1-MessyNotes/C course.md",
-    "1-MessyNotes/smart Pointers in C++.md",
-    "1-MessyNotes/Dijkstra.md",
-    "Pasted image 20250206191517.png",
-    "1-MessyNotes/3. devops.md",
-    "1-MessyNotes/Infrastructure automation.md",
-    "Pasted image 20250206183017.png",
-    "1-MessyNotes/Untitled 28.md",
-    "1-MessyNotes/JS interview questions.md",
-    "1-MessyNotes/Number theory roadmap.md",
-    "1-MessyNotes/Postgresql in  Spring Boot.md",
-    "1-MessyNotes/Template.md",
-    "2.Zettelkasten/MyArticles/Jwt Tokkens.md",
-    "2.Zettelkasten/JWT.md",
-    "1-MessyNotes/Untitled 27.md",
-    "2025-01-26.md",
-    "2025-01-12.md",
-    "1-MessyNotes/Gitlab runners.md",
-    "1-MessyNotes/Reading list.md",
-    "1-MessyNotes/CP lessons.md",
-    "1-MessyNotes/Interview Prep.md",
-    "1-MessyNotes/interview.md",
-    "1-MessyNotes/Cloud Computing.md",
-    "1-MessyNotes/Security of web applications.md",
-    "1-MessyNotes/Graphs Template.md",
-    "1-MessyNotes/js Advanced interview Questions.md",
-    "Excalidraw/Drawing 2025-01-21 13.30.00.excalidraw.md",
-    "Excalidraw/Drawing 2025-01-21 11.34.21.excalidraw.md",
-    "Pasted image 20250113121533.png",
-    "Pasted image 20250113120443.png",
-    "Pasted image 20250113120355.png",
-    "Pasted image 20250113120252.png",
-    "Pasted image 20250113114616.png",
-    "Pasted image 20250113114508.png",
-    "Pasted image 20250113114319.png",
-    "Pasted image 20250113112750.png",
+    "PFA Prject/Decomposition/Microservices/DDD/4. Microservices Architecture Design.md",
+    "PFA Prject/Decomposition/Microservices/DDD/5. schema.md",
+    "PFA Prject/Decomposition/Microservices/DDD/2. Revised Bounded Contexts.md",
+    "PFA Prject/Decomposition/Microservices/DDD/1. Analyzing Domain.md",
+    "PFA Prject/Decomposition/System Operations.md",
+    "PFA Prject/Decomposition/Functional Requirements.md",
+    "PFA Prject/Decomposition/Microservices/DDD/3. Domain Models.md",
+    "Excalidraw/context_map.md",
+    "1-MessyNotes/Untitled Kanban 3.md",
+    "PFA Prject/Decomposition/Microservices/Business Capabilities/Services.md",
+    "microservices/service Mesh/Service Mesh.md",
+    "2025-05-16.md",
+    "2025-05-15.md",
+    "microservices/service Mesh",
+    "PFA Prject/Decomposition/Microservices/DDD/1. Analyze Domain",
+    "microservices/Domain driven design.md",
+    "microservices/Decomposition Strategies.md",
+    "microservices/circuit breaking.md",
+    "Distributed Systems/CAP Theorem.md",
+    "Distributed Architecture/6. Monolith to microservices migration.md",
+    "Intership/Orange.md",
+    "Securtiy/Software Security.md",
+    "network/Sockets/Sockets.md",
+    "PFA Prject/Decomposition/Microservices/Business Capabilities",
+    "PFA Prject/Decomposition/Microservices/DDD",
+    "PFA Prject/Decomposition/Microservices",
+    "PFA Prject/Decomposition",
+    "Distributed Architecture/Pattern and Anti patterns/Anemic vs Rich Models.md",
+    "microservices/Decomposition Strategies",
+    "1-MessyNotes/Todo jnjd.md",
+    "Distributed Architecture/Pattern and Anti patterns",
+    "Intership/Internship letters.md",
+    "Untitled",
+    "Intership",
+    "jnjd/Usual Suspects.md",
+    "1-MessyNotes/Sum of All substrings.md",
+    "Pasted image 20250507214305.png",
+    "3pic.png",
     "Untitled 10.canvas",
-    "Untitled 9.canvas",
-    "Untitled 8.canvas",
-    "Untitled 7.canvas",
-    "Untitled 6.canvas",
-    "Untitled 5.canvas",
-    "Untitled 4.canvas",
-    "example@1x 1.ong",
-    "example@1x.ong",
-    " 1",
-    "1-MessyNotes/Untitled.pdf",
-    "Untitled 3.canvas",
+    "Pasted image 20241214190921.png",
+    " (1).png",
+    "1pic.png",
+    "Pasted Image 20250504023452_341.png",
+    "Untitled 14.canvas",
+    "Pasted Image 20250416002217_329.png",
+    "Pasted Image 20250415192759_657.png",
+    "Pasted Image 20250415185512_607.png",
+    "9ccc53a59405b484a68a48002625743c.png",
+    "Untitled 11.canvas",
+    "Untitled 13.canvas",
+    "Untitled 12.canvas",
     "Untitled 2.canvas",
+    "Untitled 3.canvas",
+    "Untitled.canvas",
     "Untitled 1.canvas",
-    "1-MessyNotes",
-    "templates",
-    "2.Zettelkasten",
-    "4.Files",
-    "2.Zettelkasten/Nextjs",
-    "backend"
+    "Untitled 5.canvas"
   ]
 }

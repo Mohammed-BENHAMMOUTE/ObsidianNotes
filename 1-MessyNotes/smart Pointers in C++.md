@@ -2,7 +2,7 @@
 smart pointers are made so that we you call new you don't have to call delete, and in many cases we dont even have to call new.
 so in a way smart pointer is wrapper around raw pointers.
 
-## Unique Pointers (`unique_ptr` )
+## Unique Pointers (`unique_ptr`)
 uses the concept of exclusif ownership meaning only one unique_ptr is allowed to own an object at a time. This ownership can be transferred or moved, but it cannot be shared or copied.
 
 This concept helps to prevent issues like dangling pointers, reduce memory leaks, and eliminates the need manual memory management . when th e`unique_ptr` goes out of scode it automatically deletes the object it owns. lets take a look at some basic examples of using `unique-ptr`:

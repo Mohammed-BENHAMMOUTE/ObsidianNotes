@@ -5,7 +5,7 @@ A lambda function, or simply “lambda”, is an anonymous (unnamed) function th
 
 Here is a basic syntax of a lambda function in C++:
 
-```
+```c++
 [capture-list](parameters) -> return_type {
     // function body
 };
