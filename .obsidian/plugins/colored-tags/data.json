@@ -68,7 +68,12 @@
     "LoadBalancing": 56,
     "Caching": 57,
     "CDN": 58,
-    "Sharding": 59
+    "Sharding": 59,
+    "review": 60,
+    "flashcard": 61,
+    "flashcards": 62,
+    "zz": 63,
+    "N": 64
   },
   "_version": 3
 }

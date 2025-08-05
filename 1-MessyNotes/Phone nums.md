@@ -1,2 +1,0 @@
-0697515513 Farid El3issi
-0628844399 RAGUIG Mohammed Amine

@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"ac32a2d66f20b11d","x":-202,"y":3688,"width":400,"height":400,"type":"file","file":"Architect/Distributed Architecture/exam/Shema/microservices.md"},
+		{"id":"5d660db9575fa11d","type":"file","file":"Architect/Distributed Architecture/exam/DDD/4. Domain models.md","x":-198,"y":3101,"width":400,"height":400},
+		{"id":"59b6145add9bf717","type":"file","file":"Architect/Distributed Architecture/exam/Shema/context_map.md","x":-198,"y":2541,"width":400,"height":400},
+		{"id":"8ecc9fe48d001258","type":"file","file":"Architect/Distributed Architecture/exam/DDD/2. Bounded Contexts.md","x":-200,"y":1960,"width":400,"height":400},
+		{"id":"df3239fe1e33ce05","type":"file","file":"Architect/Distributed Architecture/exam/DDD/01. functional requirements.md","x":-240,"y":240,"width":440,"height":380},
+		{"id":"ab5150655dd0a781","type":"file","file":"Architect/Distributed Architecture/exam/DDD/02. System operations.md","x":-240,"y":720,"width":441,"height":420},
+		{"id":"8b4bd1f1329a2cab","type":"file","file":"Architect/Distributed Architecture/exam/DDD/1. Domain Events.md","x":-240,"y":1320,"width":478,"height":475},
+		{"id":"6d17c364a8b0bd33","type":"text","text":"DDD","x":-160,"y":0,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"c194ee6abc816536","fromNode":"6d17c364a8b0bd33","fromSide":"bottom","toNode":"df3239fe1e33ce05","toSide":"top"},
+		{"id":"1b27a714568037d0","fromNode":"df3239fe1e33ce05","fromSide":"bottom","toNode":"ab5150655dd0a781","toSide":"top"},
+		{"id":"27b265b1f3ecfd90","fromNode":"ab5150655dd0a781","fromSide":"bottom","toNode":"8b4bd1f1329a2cab","toSide":"top"},
+		{"id":"8e33d960c61206d5","fromNode":"8b4bd1f1329a2cab","fromSide":"bottom","toNode":"8ecc9fe48d001258","toSide":"top"},
+		{"id":"cffb6b5e55a4e33f","fromNode":"8ecc9fe48d001258","fromSide":"bottom","toNode":"59b6145add9bf717","toSide":"top"},
+		{"id":"3f1e389faccc921a","fromNode":"59b6145add9bf717","fromSide":"bottom","toNode":"5d660db9575fa11d","toSide":"top"},
+		{"id":"1c8438ae74331116","fromNode":"5d660db9575fa11d","fromSide":"bottom","toNode":"ac32a2d66f20b11d","toSide":"top"}
+	]
+}

@@ -4,49 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "fd31a2fa7a7a3c97",
+        "id": "4b60e36ae658432d",
         "type": "tabs",
         "children": [
           {
-            "id": "774bb00722c69a31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PFA Prject/Decomposition/Microservices/Business Capabilities/Services.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Services"
-            }
-          },
-          {
-            "id": "2841c908ada1430f",
+            "id": "afb28104ddcca66e",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/context_map.md"
+                "file": "Excalidraw/Drawing 2025-08-05 11.48.07.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "context_map"
-            }
-          },
-          {
-            "id": "23c9f75f502b133e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-05-16.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-05-16"
+              "title": "Drawing 2025-08-05 11.48.07.excalidraw"
             }
           }
         ]
@@ -63,25 +33,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6a5224558928b3a8",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
             "id": "dc4738db73054e85",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "ANal",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,12 +58,27 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "6a5224558928b3a8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 460
+    "width": 388.0004348754883,
+    "collapsed": true
   },
   "right": {
     "id": "eedb4251fb2cc016",
@@ -115,7 +87,7 @@
       {
         "id": "3a469dc49573beff",
         "type": "tabs",
-        "dimension": 35.68,
+        "dimension": 59.75794251134644,
         "children": [
           {
             "id": "5b1461c1ba6d6aa6",
@@ -123,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PFA Prject/Decomposition/Microservices/Business Capabilities/Services.md",
+                "file": "Vim/Vim motions.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -133,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Services"
+              "title": "Backlinks for Vim motions"
             }
           },
           {
@@ -157,13 +129,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PFA Prject/Decomposition/Microservices/Business Capabilities/Services.md",
+                "file": "PFA Prject/Decomposition/Microservices/DDD/1. Analyzing Domain.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Services"
+              "title": "Outline of 1. Analyzing Domain"
             }
           },
           {
@@ -172,12 +144,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PFA Prject/Decomposition/Microservices/Business Capabilities/Services.md",
+                "file": "PFA Prject/Decomposition/Microservices/DDD/1. Analyzing Domain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Services"
+              "title": "Outgoing links from 1. Analyzing Domain"
             }
           },
           {
@@ -199,14 +171,34 @@
               "icon": "checkmark",
               "title": "Todo List"
             }
+          },
+          {
+            "id": "7f963c34aa16e46a",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "2b2cf43bd72e5559",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "0079964dd2087361",
         "type": "tabs",
-        "dimension": 64.32,
+        "dimension": 40.24205748865356,
         "children": [
           {
             "id": "8f2397ff0f6df247",
@@ -240,66 +232,68 @@
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "publish:Publish changes...": false,
       "zk-prefixer:Create new unique note": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "774bb00722c69a31",
+  "active": "afb28104ddcca66e",
   "lastOpenFiles": [
-    "PFA Prject/Decomposition/Microservices/DDD/4. Microservices Architecture Design.md",
-    "PFA Prject/Decomposition/Microservices/DDD/5. schema.md",
-    "PFA Prject/Decomposition/Microservices/DDD/2. Revised Bounded Contexts.md",
-    "PFA Prject/Decomposition/Microservices/DDD/1. Analyzing Domain.md",
-    "PFA Prject/Decomposition/System Operations.md",
-    "PFA Prject/Decomposition/Functional Requirements.md",
-    "PFA Prject/Decomposition/Microservices/DDD/3. Domain Models.md",
-    "Excalidraw/context_map.md",
-    "1-MessyNotes/Untitled Kanban 3.md",
-    "PFA Prject/Decomposition/Microservices/Business Capabilities/Services.md",
-    "microservices/service Mesh/Service Mesh.md",
-    "2025-05-16.md",
-    "2025-05-15.md",
-    "microservices/service Mesh",
-    "PFA Prject/Decomposition/Microservices/DDD/1. Analyze Domain",
-    "microservices/Domain driven design.md",
-    "microservices/Decomposition Strategies.md",
-    "microservices/circuit breaking.md",
-    "Distributed Systems/CAP Theorem.md",
-    "Distributed Architecture/6. Monolith to microservices migration.md",
-    "Intership/Orange.md",
-    "Securtiy/Software Security.md",
-    "network/Sockets/Sockets.md",
-    "PFA Prject/Decomposition/Microservices/Business Capabilities",
-    "PFA Prject/Decomposition/Microservices/DDD",
-    "PFA Prject/Decomposition/Microservices",
-    "PFA Prject/Decomposition",
-    "Distributed Architecture/Pattern and Anti patterns/Anemic vs Rich Models.md",
-    "microservices/Decomposition Strategies",
-    "1-MessyNotes/Todo jnjd.md",
-    "Distributed Architecture/Pattern and Anti patterns",
-    "Intership/Internship letters.md",
-    "Untitled",
-    "Intership",
-    "jnjd/Usual Suspects.md",
-    "1-MessyNotes/Sum of All substrings.md",
-    "Pasted image 20250507214305.png",
-    "3pic.png",
-    "Untitled 10.canvas",
-    "Pasted image 20241214190921.png",
-    " (1).png",
-    "1pic.png",
-    "Pasted Image 20250504023452_341.png",
+    "Excalidraw/Drawing 2025-08-05 11.48.07.excalidraw.md",
+    "Untitled 16.canvas",
+    "Excalidraw/Drawing 2025-07-23 05.50.57.excalidraw.md",
+    "1-MessyNotes/Architecture Kubernetes.md",
+    "obsidian.vimrc.md",
+    "2.Zettelkasten/Spring/Spring.md",
+    "1-MessyNotes/Java MultiThreading.md",
+    "Excalidraw/Drawing 2025-07-18 15.00.12.excalidraw.md",
+    "1-MessyNotes/1. DEVOPS.md",
+    "1-MessyNotes/Dependency Inversion principle.md",
+    "1-MessyNotes/Testes et Qualimetrie.md",
+    "1-MessyNotes/Propagation in Transactions in Spring Boot.md",
+    "9.personal/Life lessons.md",
+    "2.Zettelkasten/Spring IoC Container and Configuration.md",
+    "1-MessyNotes/DevOps.md",
+    "1-MessyNotes/Connecting to Postgres in express.md",
+    "1-MessyNotes/Compilers.md",
+    "1-MessyNotes/Code Flexibility.md",
+    "1-MessyNotes/Cloud exam.md",
+    "1-MessyNotes/Cloud Computing.md",
+    "1-MessyNotes/Classic Leetcodes.md",
+    "1-MessyNotes/cicd pipelines with Gitlab.md",
+    "1-MessyNotes/Checked Exceptions vs Unchecked Exceptions.md",
+    "1-MessyNotes/Chaos Engineering - Comprehensive Study Notes.md",
+    "1-MessyNotes/C++.md",
+    "1-MessyNotes/Caching.md",
+    "1-MessyNotes/C course.md",
+    "stage",
+    "Pasted Image 20250609054109_401.png",
+    "Pasted Image 20250609052700_327.png",
+    "Pasted Image 20250609052224_668.png",
+    "Pasted Image 20250609052149_537.png",
+    "Pasted Image 20250609014321_247.png",
+    "Pasted Image 20250609014016_624.png",
+    "Pasted Image 20250609013531_454.png",
+    "Pasted Image 20250609013001_513.png",
+    "Pasted Image 20250609012445_032.png",
+    "PFA Prject/Decomposition/Microservices/DDD/Untitled.pdf",
+    "Vim",
+    "Architect/Distributed Architecture/exam/Shema/context_map.png",
+    "Architect/Distributed Architecture/exam/Shema/DDD Flow.canvas",
+    "Architect/Distributed Architecture/exam/DDD",
+    "Architect/Distributed Architecture/exam/Shema",
+    "Untitled 15.canvas",
+    "1-MessyNotes/Untitled.pdf",
+    "Architect/Distributed Architecture/exam",
+    "flashCards",
+    "Exams/big Data",
+    "Architect",
     "Untitled 14.canvas",
-    "Pasted Image 20250416002217_329.png",
-    "Pasted Image 20250415192759_657.png",
-    "Pasted Image 20250415185512_607.png",
-    "9ccc53a59405b484a68a48002625743c.png",
+    "Untitled 10.canvas",
     "Untitled 11.canvas",
     "Untitled 13.canvas",
     "Untitled 12.canvas",
     "Untitled 2.canvas",
-    "Untitled 3.canvas",
-    "Untitled.canvas",
-    "Untitled 1.canvas",
-    "Untitled 5.canvas"
+    "Untitled 3.canvas"
   ]
 }

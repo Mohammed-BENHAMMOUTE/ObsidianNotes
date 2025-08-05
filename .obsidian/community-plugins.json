@@ -16,5 +16,8 @@
   "obsidian-git",
   "dataview",
   "obsidian-charts",
-  "obsidian-checklist-plugin"
+  "obsidian-checklist-plugin",
+  "mermaid-tools",
+  "obsidian-spaced-repetition",
+  "obsidian-vimrc-support"
 ]

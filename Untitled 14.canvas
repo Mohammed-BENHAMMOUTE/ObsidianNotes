@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"72d5957572d2c2e2","x":-120,"y":-300,"width":240,"height":50,"color":"3","type":"text","text":"Domain events"},
+		{"id":"f8bfd7d5386e8f68","x":-481,"y":-141,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"a45cc45760592f2c","fromNode":"72d5957572d2c2e2","fromSide":"bottom","toNode":"f8bfd7d5386e8f68","toSide":"top"}
+	]
+}

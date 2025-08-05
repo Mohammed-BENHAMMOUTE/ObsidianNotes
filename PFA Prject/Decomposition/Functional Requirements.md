@@ -1,3 +1,6 @@
+---
+aliases:
+---
 
 ## Anonymous Visitor Requirements
 
@@ -45,27 +48,6 @@
 21. **As an** authenticated user, **I want to** view and edit my profile, **so that** I can manage my personal information.
     
 22. **As an** authenticated user, **I want to** log out of my account, **so that** I can secure my session when I'm done.
-    
-
-## Admin Requirements
-
-23. **As an** admin, **I want to** schedule tournaments, **so that** users can participate in organized gaming events.
-    
-24. **As an** admin, **I want to** create tournament registration forms, **so that** users can sign up for competitions.
-    
-25. **As an** admin, **I want to** view a dashboard with platform statistics and graphs, **so that** I can monitor platform activity and performance.
-    
-26. **As an** admin, **I want to** see the number of channels created, **so that** I can track platform growth.
-    
-27. **As an** admin, **I want to** see the number of subscribers for each channel, **so that** I can identify popular content creators.
-    
-28. **As an** admin, **I want to** see the number of videos available in each channel (plus view and comment counts), **so that** I can analyze content performance.
-    
-29. **As an** admin, **I want to** see the number of articles published in each channel by category, **so that** I can track written content production.
-    
-30. **As an** admin, **I want to** manage user accounts, **so that** I can oversee platform membership.
-    
-
 ## Bonus Requirements
 
 31. **As a** user, **I want to** receive notifications (e.g., when a stream starts on a subscribed channel), **so that** I don't miss content I'm interested in.
@@ -81,3 +63,4 @@
 36. **As a** mobile user, **I want to** access a mobile version of the application, **so that** I can use the platform on my smartphone or tablet.
     
 37. **As a** viewer, **I want to** make donations to streamers, **so that** I can support content creators I enjoy.
+

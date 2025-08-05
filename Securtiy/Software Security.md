@@ -5,13 +5,13 @@ Loi 08.09
 DGSSI, Direction Générale de la Sécurité des Systèmes d'Information
 
 ---
-les different chouches de securites sont:
+les different couches de securites sont:
 data layer , app layer, SE layer , network layer , layer physique.
 
 ---
 
 dans la phase d'architecture et design:
-+ analyse des riswues.
++ analyse des risques.
 + reduction des surfaces d'attaques.
 + Modelisation des menaces 
 
