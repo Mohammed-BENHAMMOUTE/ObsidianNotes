@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "docker",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -9,7 +9,7 @@
   "colorGroups": [],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 1.3,
+  "textFadeMultiplier": -0.8,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
@@ -17,6 +17,6 @@
   "repelStrength": 14.4871531346351,
   "linkStrength": 0.860707446209305,
   "linkDistance": 251,
-  "scale": 0.633771308210328,
+  "scale": 0.5474495037673199,
   "close": false
 }

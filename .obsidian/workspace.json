@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4b60e36ae658432d",
+        "id": "23f1c5111485a3c2",
         "type": "tabs",
         "children": [
           {
-            "id": "afb28104ddcca66e",
+            "id": "9a1d665a2f2b89f1",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-08-05 11.48.07.excalidraw.md"
+                "file": "zzz. Training/Drawing 2025-09-29 16.01.59.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-08-05 11.48.07.excalidraw"
+              "title": "Drawing 2025-09-29 16.01.59.excalidraw"
             }
           }
         ]
@@ -38,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": ".vim",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -181,16 +181,6 @@
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
-          },
-          {
-            "id": "2b2cf43bd72e5559",
-            "type": "leaf",
-            "state": {
-              "type": "mermaid-toolbar-view",
-              "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
-            }
           }
         ],
         "currentTab": 6
@@ -219,13 +209,13 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "templates:Insert template": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
       "switcher:Open quick switcher": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-kanban:Create new board": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
@@ -234,60 +224,61 @@
       "zk-prefixer:Create new unique note": false,
       "obsidian-git:Open Git source control": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "afb28104ddcca66e",
+  "active": "9a1d665a2f2b89f1",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-08-05 11.48.07.excalidraw.md",
+    "Excalidraw/Drawing 2025-09-23 14.19.25.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-25 09.07.07.excalidraw.md",
+    "Drawing 2024-12-14 18.12.38.excalidraw.md",
+    "1-MessyNotes/Untitled 38.md",
+    "zzz. Training/fastapi SQLalchemy training.md",
+    "zzz. Training/Drawing 2025-09-29 16.01.59.excalidraw.md",
+    "Vim/Vim motions.md",
+    "zzz. Training",
+    "Excalidraw/Drawing 2025-09-22 10.02.48.excalidraw.md",
+    "Excalidraw/Drawing 2025-09-22 16.07.09.excalidraw.md",
+    "mnpc/graph.md",
+    "Excalidraw/Drawing 2025-09-15 18.21.21.excalidraw.md",
+    "1-MessyNotes/DSU.md",
+    "Excalidraw/Drawing 2025-09-18 11.21.39.excalidraw.md",
+    "Excalidraw/Drawing 2025-09-13 13.10.45.excalidraw.md",
+    "2025-09-01.md",
+    "Excalidraw/Drawing 2025-08-26 19.31.19.excalidraw.md",
+    "1-MessyNotes/Untitled 36.md",
+    "Excalidraw/Drawing 2025-09-12 05.00.41.excalidraw.md",
+    "Excalidraw/Drawing 2025-08-25 17.34.54.excalidraw.md",
+    "Excalidraw/Drawing 2025-08-25 16.50.12.excalidraw.md",
+    "Excalidraw/Drawing 2025-08-11 10.18.35.excalidraw.md",
+    "1-MessyNotes/Untitled 37.md",
+    "mnpc",
+    "Excalidraw/Drawing 2025-09-06 12.05.45.excalidraw.md",
+    "Pasted Image 20250909075932_518.png",
+    "Pasted Image 20250908225300_267.png",
+    "1-MessyNotes/Command.md",
+    "Architect/Design patterns/beheavioral",
+    "Excalidraw/Drawing 2025-08-26 20.45.05.excalidraw.md",
+    "Pasted Image 20250830190127_802.png",
+    "Pasted Image 20250826204603_976.png",
+    "Excalidraw/Drawing 2025-08-25 18.10.31.excalidraw.md",
+    "chart.png",
+    "PFA Prject/Decomposition/Microservices/DDD/Untitled.pdf",
+    "sd.kv.png",
     "Untitled 16.canvas",
-    "Excalidraw/Drawing 2025-07-23 05.50.57.excalidraw.md",
-    "1-MessyNotes/Architecture Kubernetes.md",
-    "obsidian.vimrc.md",
-    "2.Zettelkasten/Spring/Spring.md",
-    "1-MessyNotes/Java MultiThreading.md",
-    "Excalidraw/Drawing 2025-07-18 15.00.12.excalidraw.md",
-    "1-MessyNotes/1. DEVOPS.md",
-    "1-MessyNotes/Dependency Inversion principle.md",
-    "1-MessyNotes/Testes et Qualimetrie.md",
-    "1-MessyNotes/Propagation in Transactions in Spring Boot.md",
-    "9.personal/Life lessons.md",
-    "2.Zettelkasten/Spring IoC Container and Configuration.md",
-    "1-MessyNotes/DevOps.md",
-    "1-MessyNotes/Connecting to Postgres in express.md",
-    "1-MessyNotes/Compilers.md",
-    "1-MessyNotes/Code Flexibility.md",
-    "1-MessyNotes/Cloud exam.md",
-    "1-MessyNotes/Cloud Computing.md",
-    "1-MessyNotes/Classic Leetcodes.md",
-    "1-MessyNotes/cicd pipelines with Gitlab.md",
-    "1-MessyNotes/Checked Exceptions vs Unchecked Exceptions.md",
-    "1-MessyNotes/Chaos Engineering - Comprehensive Study Notes.md",
-    "1-MessyNotes/C++.md",
-    "1-MessyNotes/Caching.md",
-    "1-MessyNotes/C course.md",
     "stage",
     "Pasted Image 20250609054109_401.png",
     "Pasted Image 20250609052700_327.png",
     "Pasted Image 20250609052224_668.png",
     "Pasted Image 20250609052149_537.png",
-    "Pasted Image 20250609014321_247.png",
-    "Pasted Image 20250609014016_624.png",
-    "Pasted Image 20250609013531_454.png",
-    "Pasted Image 20250609013001_513.png",
-    "Pasted Image 20250609012445_032.png",
-    "PFA Prject/Decomposition/Microservices/DDD/Untitled.pdf",
     "Vim",
-    "Architect/Distributed Architecture/exam/Shema/context_map.png",
     "Architect/Distributed Architecture/exam/Shema/DDD Flow.canvas",
     "Architect/Distributed Architecture/exam/DDD",
     "Architect/Distributed Architecture/exam/Shema",
     "Untitled 15.canvas",
     "1-MessyNotes/Untitled.pdf",
     "Architect/Distributed Architecture/exam",
-    "flashCards",
-    "Exams/big Data",
-    "Architect",
     "Untitled 14.canvas",
     "Untitled 10.canvas",
     "Untitled 11.canvas",

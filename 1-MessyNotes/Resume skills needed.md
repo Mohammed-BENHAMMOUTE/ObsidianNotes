@@ -3,13 +3,13 @@ Languages:
 - [ ] Java
 - [ ] C++
 - [ ] Typescript
-- [ ] PLSQL
 - [ ] python
 - [ ] Golang
-- [ ] Dart
 Technologies:
 - [ ] Spring boot 
-- [ ] Express
+- [ ] e<C-r>=<SID>SmartBackspace()
+i<C-r>=<SID>SmartBackspace()
+ Express
 - [ ] Django
 - [ ] Nextjs
 - [ ] React 

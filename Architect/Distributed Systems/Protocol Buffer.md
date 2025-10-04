@@ -1,4 +1,3 @@
-
 # Protocol Buffers (Protobuf)
 
 ## Overview
